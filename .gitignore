@@ -1,0 +1,15 @@
+# Ignore Mac system files
+.DS_store
+
+# congig.py containing API keys
+config.py
+
+# Ignore given & produced CSV & TSV files
+image-predictions.tsv
+tweet_json.txt
+twitter_archive_master.csv
+twitter-archive-enhanced.csv
+
+# Ignore auto generated folders
+__pychache__/
+.ipynb_checkpoints
