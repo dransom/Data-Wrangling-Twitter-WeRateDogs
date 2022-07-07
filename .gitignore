@@ -11,5 +11,6 @@ twitter_archive_master.csv
 twitter-archive-enhanced.csv
 
 # Ignore auto generated folders
-__pychache__/
+__pycache__/
 .ipynb_checkpoints
+__pycache__/config.cpython-38.pyc
