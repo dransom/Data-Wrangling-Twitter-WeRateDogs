@@ -41,5 +41,5 @@ The project consists of 3 different sources for the data:
 
 ## Conclusion 
 
-All three sources were combined into a master file and saved to be used for further analysis.  Afterwards, some basic visualizations were prepared and summarized in a small writeup, called [Data Wrangling - Twitter Visualizations](/data-wrangling-twitter-visualizaitons.pdf).
+All three sources were combined into a master file and saved to be used for further analysis.  Afterwards, some basic visualizations were prepared and summarized in a small writeup, called [Data Wrangling - Twitter Visualizations](/data-wrangling-twitter-visualizations.pdf).
 
