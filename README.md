@@ -3,7 +3,7 @@
 
 ## Overview
 
-Since data rarely comes clean, the goal of the project was to use a variety of sources for data and clean it up for use later on.  Specpfically, the goal was to pull data from: an API, csv file, and from a file downloaded from the internet.
+Since data rarely comes clean, the goal of the project was to use a variety of sources for data and clean it up for use later on.  Specifically, the goal was to pull data from: an API, csv file, and from a file downloaded from the internet.
 
 This project was intended to collect data from the [WeRateDogs Twitter profile](https://twitter.com/dog_rates?) and to collect it into a CSV file in order some data analysis.  WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because ["they're good dogs Brent."](https://knowyourmeme.com/memes/theyre-good-dogs-brent) WeRateDogs has over 4 million followers and has received international media coverage.
 
